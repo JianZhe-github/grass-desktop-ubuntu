@@ -18,15 +18,15 @@
   docker run -d -p 5900:5900 -p 6080:6080 --name grass-desktop-node -e email=your_email -e password=your_password jianzhe61/grass-desktop-ubuntu
   ```
 ## 操作畫面
-![螢幕擷取畫面 2024-08-06 153841](https://hackmd.io/_uploads/ryGsmIJ9A.png)
+![截圖7](https://github.com/JianZhe-github/grass-desktop-ubuntu/blob/main/截圖7.png)
 
   
 ## 操作教學
-1. 登入[http://localhost:6080/vnc.html](http://localhost:6080/vnc.html)會進入到novnc的介面(**注意 localhost 要取代為dockre宿主機的ip**)![螢幕擷取畫面 2024-08-06 151026](https://hackmd.io/_uploads/Sy-tnSkc0.png)
+1. 登入[http://localhost:6080/vnc.html](http://localhost:6080/vnc.html)會進入到novnc的介面(**注意 localhost 要取代為dockre宿主機的ip**)![截圖1](https://github.com/JianZhe-github/grass-desktop-ubuntu/blob/main/截圖1.png)
 
-2. 接著按下連線即可連線到ubuntu，進入後會出現這個提示，按下remove即可![螢幕擷取畫面 2024-08-06 152127](https://hackmd.io/_uploads/rkHM1Ly5A.png)
+2. 接著按下連線即可連線到ubuntu，進入後會出現這個提示，按下remove即可![截圖2](https://github.com/JianZhe-github/grass-desktop-ubuntu/blob/main/截圖2.png)
 3. 等待程式執行直到出現下方畫面，如果順利出現代表grass已經自動安裝完成
-![螢幕擷取畫面 2024-08-06 152910](https://hackmd.io/_uploads/Hyxk-Lk5C.png)
-4.點選左上角Applications，接著在Development找到Grass給他點下去![螢幕擷取畫面 2024-08-06 153121](https://hackmd.io/_uploads/By95-L150.png)
-5.出現grass程式介面後要自行輸入帳號密碼進行登入(**如果要輸入大寫請用shirt加上英文健**)![螢幕擷取畫面 2024-08-06 153412](https://hackmd.io/_uploads/rkxzMLkcA.png)
-6.可以把開機自動登入以及自動更新打開，到這邊就大功告成了![螢幕擷取畫面 2024-08-06 153756](https://hackmd.io/_uploads/BJbr7UJ5R.png)
+![截圖3](https://github.com/JianZhe-github/grass-desktop-ubuntu/blob/main/截圖3.png)
+4.點選左上角Applications，接著在Development找到Grass給他點下去![截圖4](https://github.com/JianZhe-github/grass-desktop-ubuntu/blob/main/截圖4.png)
+5.出現grass程式介面後要自行輸入帳號密碼進行登入(**如果要輸入大寫請用shirt加上英文健**)![截圖5](https://github.com/JianZhe-github/grass-desktop-ubuntu/blob/main/截圖5.png)
+6.可以把開機自動登入以及自動更新打開，到這邊就大功告成了![截圖6](https://github.com/JianZhe-github/grass-desktop-ubuntu/blob/main/截圖6.png)
