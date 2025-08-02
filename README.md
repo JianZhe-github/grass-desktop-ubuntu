@@ -1,3 +1,6 @@
+# 此專案已無維護 請參考[新方法](https://github.com/JianZhe-github/docker-grass-desktop)
+
+
 # grass-desktop-ubuntu
 利用docker架設ubuntu 22.04運行grass-desktop-node 以達到兩倍收益  
 如果覺得此項目還不錯可以幫我點個星星  
